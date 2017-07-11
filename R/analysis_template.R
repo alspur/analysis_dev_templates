@@ -5,22 +5,22 @@
 #
 # notes re: purpose of project
 
-# load ####
+# load ---------------------------
 
 # load packages 
 
 # load raw data
 
 
-# clean ####
+# clean ---------------------------
 
 # prepare data in a tidy format
 
 
-# analyze ####
+# analyze -------------------------
 
 # transform, model, and/or visualize data
 
-# communicate ####
+# communicate ---------------------
 
 # produce objects (tables, charts, etc) for communcating results
